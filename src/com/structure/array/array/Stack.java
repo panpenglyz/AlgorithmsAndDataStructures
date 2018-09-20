@@ -1,4 +1,4 @@
-package com.structure.array;
+package com.structure.array.array;
 
 /**
  * @author pp-sir
