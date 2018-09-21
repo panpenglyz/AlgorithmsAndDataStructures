@@ -10,8 +10,8 @@ public class LoopQueue<E> implements Queue<E> {
     private int front, tail;
     private int size;
 
-    public LoopQueue(int capcacity) {
-        data = (E[]) new Object[capcacity + 1];
+    public LoopQueue(int capacity) {
+        data = (E[]) new Object[capacity + 1];
         front = 0;
         tail = 0;
         size = 0;

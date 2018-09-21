@@ -1,6 +1,5 @@
 package com.structure.array;
 
-import com.structure.array.queue.ArrayQueue;
 import com.structure.array.queue.LoopQueue;
 import com.structure.array.queue.Queue;
 
